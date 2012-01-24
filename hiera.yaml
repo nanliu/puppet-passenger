@@ -1,0 +1,12 @@
+---
+:backends: - puppet
+
+:hierarchy: - %{fqdn}
+            - %{calling_module}
+            - common
+
+:yaml:
+    :datadir: %{confdir}/data
+
+:puppet:
+    :datasource: data

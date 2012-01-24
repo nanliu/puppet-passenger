@@ -1,15 +1,15 @@
 [submodule "modules/puppetlabs-apache"]
 	path = modules/puppetlabs-apache
-	url = git@github.com:nanliu/puppetlabs-apache.git
+	url = git@github.com/nanliu/puppetlabs-apache.git
 [submodule "modules/puppetlabs-gcc"]
 	path = modules/puppetlabs-gcc
-	url = git@github.com:nanliu/puppetlabs-gcc.git
+	url = git@github.com/nanliu/puppetlabs-gcc.git
 [submodule "modules/puppetlabs-passenger"]
 	path = modules/puppetlabs-passenger
-	url = git@github.com:nanliu/puppetlabs-passenger.git
+	url = git@github.com/nanliu/puppetlabs-passenger.git
 [submodule "modules/puppetlabs-ruby"]
 	path = modules/puppetlabs-ruby
-	url = git@github.com:nanliu/puppetlabs-ruby.git
+	url = git@github.com/nanliu/puppetlabs-ruby.git
 [submodule "modules/hiera-puppet"]
 	path = modules/hiera-puppet
-	url = git@github.com:nanliu/hiera-puppet.git
+	url = git@github.com/nanliu/hiera-puppet.git

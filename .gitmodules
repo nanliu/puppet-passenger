@@ -4,6 +4,9 @@
 [submodule "modules/puppetlabs-gcc"]
 	path = modules/puppetlabs-gcc
 	url = http://github.com/nanliu/puppetlabs-gcc.git
+[submodule "modules/puppetlas-java"]
+	path = modules/puppetlabs-java
+	url = http://github.com/nanliu/puppetlabs-java.git
 [submodule "modules/puppetlabs-passenger"]
 	path = modules/puppetlabs-passenger
 	url = http://github.com/nanliu/puppetlabs-passenger.git

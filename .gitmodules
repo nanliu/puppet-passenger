@@ -16,3 +16,6 @@
 [submodule "modules/hiera-puppet"]
 	path = modules/hiera-puppet
 	url = http://github.com/nanliu/hiera-puppet.git
+[submodule "modules/puppetlabs-stdlib"]
+	path = modules/puppetlabs-stdlib
+	url = http://github.com/nanliu/puppetlabs-stdlib.git
